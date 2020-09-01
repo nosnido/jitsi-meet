@@ -1,10 +1,10 @@
 {
     "addPeople": {
         "add": "Invite",
-        "addContacts": "Invite your contacts",
-        "copyInvite": "Copy meeting invitation",
-        "copyLink": "Copy meeting link",
-        "copyStream": "Copy live streaming link",
+        "addContacts": "Invite your contact",
+        "copyInvite": "Paste invitation of ruang jumpa",
+        "copyLink": "Paste link of ruang jumpa",
+        "copyStream": "Paste link of live streaming",
         "countryNotSupported": "We do not support this destination yet.",
         "countryReminder": "Calling outside the US? Please make sure you start with the country code!",
         "defaultEmail": "Your Default Email",
@@ -44,17 +44,17 @@
     },
     "calendarSync": {
         "addMeetingURL": "Add a meeting link",
-        "confirmAddLink": "Do you want to add a Jitsi link to this event?",
+        "confirmAddLink": "Do you want to add a Jumpa link to this event?",
         "error": {
             "appConfiguration": "Calendar integration is not properly configured.",
             "generic": "An error has occurred. Please check your calendar settings or try refreshing the calendar.",
             "notSignedIn": "An error occurred while authenticating to see calendar events. Please check your calendar settings and try logging in again."
         },
         "join": "Join",
-        "joinTooltip": "Join the meeting",
-        "nextMeeting": "next meeting",
-        "noEvents": "There are no upcoming events scheduled.",
-        "ongoingMeeting": "ongoing meeting",
+        "joinTooltip": "Join this meeting",
+        "nextMeeting": "the next Meeting",
+        "noEvents": "Tthere is no meeting on the schedule",
+        "ongoingMeeting": "having a meeting",
         "permissionButton": "Open settings",
         "permissionMessage": "The Calendar permission is required to see your meetings in the app.",
         "refresh": "Refresh calendar",
@@ -615,7 +615,7 @@
     "security": {
         "about": "You can add a $t(lockRoomPassword) to your meeting. Participants will need to provide the $t(lockRoomPassword) before they are allowed to join the meeting.",
         "aboutReadOnly": "Moderator participants can add a $t(lockRoomPassword) to the meeting. Participants will need to provide the $t(lockRoomPassword) before they are allowed to join the meeting.",
-        "insecureRoomNameWarning": "The room name is unsafe. Unwanted participants may join your conference. Consider securing your meeting using the security button.",
+        "inRoomNameWarning": "The room name is unsafe. Unwanted participants may join your conference. Consider securing your meeting using the security button.",
         "securityOptions": "Security options"
     },
     "settings": {
@@ -864,7 +864,7 @@
             "join": "Tap to join",
             "roomname": "Enter room name"
         },
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. {{app}} is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "Jumpa adalah platform rapat online dan webinar yang di miliki oleh mahasiswa, untuk mahasiswa. Jumpa masih dalam fase pengembangan, karena itu Jumpa tidak membatasi jumlah orang yang kamu ajak berjumpa dan durasi perjumpaan.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -889,7 +889,7 @@
         "roomnameHint": "Enter the name or URL of the room you want to join. You may make a name up, just let the people you are meeting know it so that they enter the same name.",
         "sendFeedback": "Send feedback",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing"
+        "title": "Mari berjumpa!."
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",
